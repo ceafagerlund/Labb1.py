@@ -1,4 +1,4 @@
-n = int(input("Ge mig ett tal!! "))
+n = int(input("Give me a number!! "))
 a = 0
 b = (n-(a**3))**(1/3)
 while (a**3 + b**3 != n):
@@ -9,5 +9,4 @@ if ((a**3)+(b**3)==n):
  print (n "is" a "to the power of three plus" b "to the power of three")
 elif ((a**3)>(n)
  break
- print ("Det gick inte...")
-      
+ print ("Alas, it is impossible...")
