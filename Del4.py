@@ -6,7 +6,7 @@ while (a**3 + b**3 != n):
  print((a**3)+(b**3))
 if ((a**3)+(b**3)==n):
  break
- print (a, b)
+ print (n "is" a "to the power of three plus" b "to the power of three")
 elif ((a**3)>(n)
  break
  print ("Det gick inte...")
