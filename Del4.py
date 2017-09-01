@@ -7,7 +7,7 @@ while (a**3 + b**3 != n):
 if ((a**3)+(b**3)==n):
  break
  print (a, b)
-elif ((a**3)>(n**(1/3))
+elif ((a**3)>(n)
  break
  print ("Det gick inte...")
       
